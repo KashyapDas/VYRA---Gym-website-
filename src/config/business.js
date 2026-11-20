@@ -3,9 +3,9 @@ export const business = {
 
   // Country code + phone number.
   // Do not use +, spaces, brackets or hyphens.
-  whatsappNumber: '916001700949',
+  whatsappNumber: '919365061507',
 
-  address: 'GS Road, Guwahati, Assam',
+  address: 'Jalukbari, Guwahati, Assam',
 
   mapUrl:
     'https://www.google.com/maps/search/?api=1&query=GS+Road+Guwahati+Assam',
