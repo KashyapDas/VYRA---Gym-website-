@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(220 120) rotate(35) scale(700 500)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d7ff62" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#d7ff62" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0b0b0b"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <text x="84" y="122" fill="#d7ff62" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="7">PREMIUM MOVEMENT COACHING</text>
+  <text x="76" y="320" fill="#f3f2ea" font-family="Arial, sans-serif" font-size="132" font-weight="800" letter-spacing="-8">MOVE BETTER.</text>
+  <text x="76" y="455" fill="#d8d4c9" font-family="Georgia, serif" font-size="126" font-weight="700" font-style="italic" letter-spacing="-7">LIVE STRONGER.</text>
+  <text x="84" y="558" fill="#9d9d95" font-family="Arial, sans-serif" font-size="30">VYRA · REACT · TAILWIND · GSAP</text>
+  <circle cx="1090" cy="535" r="28" fill="#d7ff62"/>
+</svg>
